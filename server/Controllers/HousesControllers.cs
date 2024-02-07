@@ -1,6 +1,4 @@
-using gregsListSharp.Models;
-
-namespace gregstListSharp.Controllers;
+namespace gregsListSharp.Controllers;
 
 [ApiController]
 [Route("api/[controller]")]
